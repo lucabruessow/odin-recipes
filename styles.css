@@ -1,0 +1,50 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(67, 63, 63);
+    margin: 30px 15px;
+    padding: 30px;
+}
+
+h2 {
+    font-size: 32px;
+    color: rgb(67, 63, 63);
+    margin: 30px 15px 0px;
+    padding: 5px 30px;
+}
+
+img {
+    margin: -15px 15px 0px;
+    padding: 5px 30px;
+}
+
+ul, p {
+    list-style-position: inside;
+    font-size: 24px;
+    color: rgb(67, 63, 63);
+    margin: 15px;
+    padding: 15px 30px;
+}
+
+.list-ingredients {
+    margin-top: 0;
+}
+
+.body-text {
+    margin: 0px 15px 0px 15px;
+}
+
+li {
+    padding: 10px;
+}
+
+.list-ingredients li {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
